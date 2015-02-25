@@ -1,3 +1,10 @@
 <?php
+
+
+print 'avazbek';
 phpinfo();
+
+
+
+
 ?>
