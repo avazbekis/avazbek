@@ -1,7 +1,7 @@
 <?php
 
 
-print 'avazbek';
+print 'avazis';
 phpinfo();
 
 
